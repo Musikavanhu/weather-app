@@ -1,6 +1,7 @@
 :root {
     --bg_main: #455954;
     --text_light: black;
+    
 
     
   }
@@ -55,6 +56,7 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
+    text-align: center;
   }
   
   
